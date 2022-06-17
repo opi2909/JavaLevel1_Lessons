@@ -4,19 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c773a861-10af-4937-abb3-9009edeb7044" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaLevel1_Lessons.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson1/HomeWorkApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson5/Employees.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson5/Main.java" afterDir="false" />
+    <list default="true" id="c773a861-10af-4937-abb3-9009edeb7044" name="Changes" comment="Homework5">
+      <change afterPath="$PROJECT_DIR$/src/Lesson4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson6/Animals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson6/Cats.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson6/Dogs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +30,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="29f8rtQ0TzTaaL9wPgqbfHFKa1E" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -55,10 +50,16 @@
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Lesson5.Main">
-    <configuration name="Lesson1.HomeWorkApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson1.HomeWorkApp" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Cats" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson6.Cats" />
       <module name="JavaLevel1_Lessons" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -103,19 +104,25 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+      <option name="MAIN_CLASS_NAME" value="Lesson4.Main" />
       <module name="JavaLevel1_Lessons" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Cats" />
         <item itemvalue="Application.Lesson5.Main" />
         <item itemvalue="Application.Lesson3.Main" />
         <item itemvalue="Application.Lesson2.Main" />
-        <item itemvalue="Application.Lesson1.HomeWorkApp" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -130,8 +137,21 @@
       <workItem from="1653493006985" duration="3715000" />
       <workItem from="1653848429009" duration="9211000" />
       <workItem from="1654087879150" duration="16296000" />
-      <workItem from="1654628576700" duration="6254000" />
+      <workItem from="1654628576700" duration="7462000" />
+      <workItem from="1654885161092" duration="4872000" />
+      <workItem from="1655028467108" duration="1517000" />
+      <workItem from="1655139563387" duration="3782000" />
+      <workItem from="1655229619791" duration="5975000" />
+      <workItem from="1655468057606" duration="5625000" />
     </task>
+    <task id="LOCAL-00001" summary="Homework5">
+      <created>1654635232696</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1654635232696</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -147,5 +167,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Homework5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework5" />
   </component>
 </project>
